@@ -24,23 +24,13 @@
 ---
 ### 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://twitter.com/your-twitter-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
-  </a>
-  <a href="https://www.instagram.com/your-instagram-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-  <a href="mailto:priyanshudangi449244@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
-  <a href="https://github.com/priyanshu4492" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/[your-linkedin-username](https://www.linkedin.com/in/priyanshu-dangi-544684338/)"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://twitter.com/your-twitter-username"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+  <a href="https://www.instagram.com/your-instagram-username"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
+  <a href="mailto:priyanshudangi449244@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 </p>
+>
 ---
 
 ### 📌 Featured Projects
