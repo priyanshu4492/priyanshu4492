@@ -11,6 +11,8 @@
 - 🌱 Learning **Flutter & App Development**
 - 💡 Interested in **real-world apps & system design**
 - 📍 Jharkhand, India
+### 🤝 Connect With Me
+- 📧 Email: priyanshudangi449244@gmail.com
 
 ---
 
@@ -45,5 +47,3 @@
 
 ---
 
-### 🤝 Connect With Me
-- 📧 Email: priyanshudangi449244@gmail.com
