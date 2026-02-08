@@ -27,6 +27,11 @@
 - 🔹 **playing-with-images**
 
 ---
+### 📈 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/priyanshu4492/priyanshu4492/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
 
 ### 📊 GitHub Stats
 <p>
