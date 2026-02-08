@@ -1,15 +1,15 @@
 name: GitHub Profile 3D Contrib
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 18 * * *"
-  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v3
         with:
           persist-credentials: true
