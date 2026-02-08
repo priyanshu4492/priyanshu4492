@@ -16,7 +16,7 @@
 
 ### 🛠️ Technologies & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,c,cpp,html,css,js,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,git,github,vscode,androidstudio" />
 </p>
 
 ---
