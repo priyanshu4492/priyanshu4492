@@ -52,12 +52,14 @@
 </p>
 
 ## 📊 GitHub Stats
-<p align="center">
+
 <p>
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshu4492&show_icons=true&theme=tokyonight" />
 </p>
 
 <p>
+  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu4492&theme=tokyonight" />
 </p>
 
