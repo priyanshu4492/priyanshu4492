@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Dangi</h1>
 <h3 align="center">Aspiring Flutter Developer | Building & Learning</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/priyanshu4492/priyanshu4492/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/priyanshu4492/priyanshu4492/main/BLack Minimalist Corporate Staff Identity LinkedIn Banner.png" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanshu4492&label=Profile%20views&color=0e75b6&style=flat" />
