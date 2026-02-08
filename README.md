@@ -48,17 +48,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu4492&show_icons=true&theme=tokyonight" />
-</p>
-
-### 🧠 Most Used Languages (Dart & Java only)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu4492&layout=donut&theme=tokyonight&hide=html,css,javascript" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu4492&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu4492&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+</p>
+
+## 🧠 Most Used Languages (Dart & Java only)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu4492&layout=donut&theme=tokyonight&hide=html,css,javascript&cache_seconds=86400" />
 </p>
 
 ---
