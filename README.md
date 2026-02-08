@@ -40,4 +40,4 @@
 ---
 
 ### 🤝 Connect With Me
-- 📧 Email: priyanshudangi44924@gmail.com
+- 📧 Email: priyanshudangi449244@gmail.com
