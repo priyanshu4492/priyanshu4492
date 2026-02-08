@@ -20,7 +20,9 @@
 ---
 
 ### 🛠️ Technologies & Tools
+
 <p>
+  <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,git,github,vscode" />
 </p>
 
