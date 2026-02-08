@@ -35,7 +35,7 @@
   <a href="https://www.instagram.com/your-instagram-username"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
   <a href="mailto:priyanshudangi449244@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 </p>
->
+
 ---
 
 ### 📌 Featured Projects
