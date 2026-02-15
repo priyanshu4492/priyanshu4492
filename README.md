@@ -38,10 +38,7 @@
 
 ---
 
-### 📌 Featured Projects
-- 🔹 **simple-ui-layout-app**
-- 🔹 **flutter_basics**
-- 🔹 **playing-with-images**
+
 
 ---
 ### 📈 3D Contribution Graph
